@@ -10,3 +10,5 @@
     <li>Certas condições de empate, como o afogamento por exemplo.</li>
 </ul>
 Além disso o jogo só roda no terminal, talvez uma interface-gráfica possa ser implementada no futuro.
+<hr>
+<p>clone o repositório: <code>git clone https://github.com/gabrieldsn2006/Chess.git</code></p>
